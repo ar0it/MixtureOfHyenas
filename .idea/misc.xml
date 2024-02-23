@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager" version="2" project-jdk-name="hyena_empty" project-jdk-type="Python SDK" />
+  <component name="Black">
+    <option name="sdkName" value="$USER_HOME$/mambaforge/envs/moh" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="$USER_HOME$/mambaforge/envs/moh" project-jdk-type="Python SDK" />
   <component name="PyCharmDSProjectLayout">
     <option name="id" value="JupyterRightHiddenStructureLayout" />
   </component>
